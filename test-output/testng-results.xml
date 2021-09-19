@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-19T16:44:20 IST" name="Suite" finished-at="2021-09-19T16:44:26 IST" duration-ms="5682">
+    <groups>
+    </groups>
+    <test started-at="2021-09-19T16:44:20 IST" name="Test4" finished-at="2021-09-19T16:44:24 IST" duration-ms="3536">
+      <class name="saucedemo.LoginTest">
+        <test-method signature="InvalidLoginTest()[pri:0, instance:saucedemo.LoginTest@3697186]" started-at="2021-09-19T16:44:20 IST" name="InvalidLoginTest" finished-at="2021-09-19T16:44:24 IST" duration-ms="3489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginTest -->
+      </class> <!-- saucedemo.LoginTest -->
+    </test> <!-- Test4 -->
+    <test started-at="2021-09-19T16:44:20 IST" name="Test1" finished-at="2021-09-19T16:44:25 IST" duration-ms="4485">
+      <class name="saucedemo.CheckProductPresence">
+        <test-method signature="ValidateProductPresence()[pri:0, instance:saucedemo.CheckProductPresence@6057aebb]" started-at="2021-09-19T16:44:20 IST" name="ValidateProductPresence" finished-at="2021-09-19T16:44:25 IST" duration-ms="4445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateProductPresence -->
+      </class> <!-- saucedemo.CheckProductPresence -->
+    </test> <!-- Test1 -->
+    <test started-at="2021-09-19T16:44:20 IST" name="Test3" finished-at="2021-09-19T16:44:26 IST" duration-ms="5327">
+      <class name="saucedemo.checkout">
+        <test-method signature="ValidateProductDetails()[pri:0, instance:saucedemo.checkout@5ddcc487]" started-at="2021-09-19T16:44:20 IST" name="ValidateProductDetails" finished-at="2021-09-19T16:44:26 IST" duration-ms="5287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateProductDetails -->
+      </class> <!-- saucedemo.checkout -->
+    </test> <!-- Test3 -->
+    <test started-at="2021-09-19T16:44:20 IST" name="Test2" finished-at="2021-09-19T16:44:26 IST" duration-ms="5682">
+      <class name="saucedemo.PriceComparisionTest">
+        <test-method signature="priceComparision()[pri:0, instance:saucedemo.PriceComparisionTest@5a3bc7ed]" started-at="2021-09-19T16:44:20 IST" name="priceComparision" finished-at="2021-09-19T16:44:26 IST" duration-ms="5643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceComparision -->
+      </class> <!-- saucedemo.PriceComparisionTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
